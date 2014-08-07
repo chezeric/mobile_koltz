@@ -1,0 +1,20 @@
+{
+  "name": "mobile_koltz",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chezeric/mobile_koltz",
+  "authors": [
+    "Eric Livingston <chezeric@comcast.net>"
+  ],
+  "description": "mobile website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-icon-fonts": "*"
+  }
+}
